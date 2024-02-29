@@ -3,7 +3,7 @@ pragma solidity ^0.8.0;
 
 contract Attack{
     constructor(Vault vault){
-        /*just by typing a command into browser console 'awiat web3.eth.getStorage(address.contract,  1  ) 
+        /*just by typing a command into browser console 'awiat web3.eth.getStorageAt(contract.address,  1  ) 
         *                                                                                /             \        
         *                                                                      address of contract    slot in which the password is located            
         *
