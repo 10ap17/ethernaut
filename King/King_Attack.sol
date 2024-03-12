@@ -6,7 +6,7 @@ contract Attack{
         payable(_addr).call{value:msg.value}("");
     }
         //this level could be passed
-        //with no fallback/receive function
+        //with no fallback function
     fallback() external payable {
         //transfer is used
         //there is 2300 of gas to consume
