@@ -6,7 +6,7 @@ interface IPreservation {
 }
 
 contract Attack{
-  //we have to have the same storage layout as in tye Preservation contract
+  //we have to have the same storage layout as in the Preservation contract
   address public timeZone1Library;
   address public timeZone2Library;
   address public owner;
