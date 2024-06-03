@@ -1,9 +1,9 @@
 # Ethernaut
 ```
-                  __  __                          __ 
-             ___ / /_/ /  ___ _______  ___ ___ __/ /_
-            / -_) __/ _ \/ -_) __/ _ \/ _ `/ // / __/
-            \__/\__/_//_/\__/_/ /_//_/\_,_/\_,_/\__/ 
+                                    __  __                          __ 
+                               ___ / /_/ /  ___ _______  ___ ___ __/ /_
+                              / -_) __/ _ \/ -_) __/ _ \/ _ `/ // / __/
+                              \__/\__/_//_/\__/_/ /_//_/\_,_/\_,_/\__/ 
 ```
 Ethernaut is a popular Ethereum smart contract security platform developed by OpenZeppelin. It provides a series of challenges designed to challenge participants to exploit various vulnerabilities and use security best practices in smart contracts.
 
